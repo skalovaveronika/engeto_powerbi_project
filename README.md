@@ -13,10 +13,10 @@ This project contains a Power BI report visualizing the statistics of the Premie
 
 ## Acknowledgments
 
-- data sources: https://www.kaggle.com/datasets/afnanurrahim/premier-league-2022-23, https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats
+- Data sources: https://www.kaggle.com/datasets/afnanurrahim/premier-league-2022-23, https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats
 
 ## Contact
 
 Veronika Skalova 
-Email: skalovaver@gmail.com 
-Discord: skalovaveronika
+- Email: skalovaver@gmail.com 
+- Discord: skalovaveronika
